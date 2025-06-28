@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additional
+*.sh
+.DS_Store
+.creds/client.json
+mocks/*.json

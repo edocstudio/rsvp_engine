@@ -1,0 +1,6 @@
+gspread==6.2.0
+google-auth==2.38.0
+pandas==2.2.3
+gspread-dataframe==4.0.0
+cryptography==44.0.2
+pydantic==2.11.7
