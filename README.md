@@ -1,4 +1,4 @@
-# RSVP Engine – Wedding RSVP Serverless Backend
+# RSVP Online – Lambda API Request
 
 Automate and secure your wedding guest invitations and RSVP tracking with a scalable, serverless backend powered by AWS Lambda.
 
@@ -164,10 +164,21 @@ Ittipon Bangudsareh\
 
 ---
 
-## Demo & Docs
+## Demo
 
-- **Demo**: [Add demo/video link here]
-- **API Documentation**: [Add OpenAPI/Swagger link or sample request/response here]
+- **Demo**: [RSVP Online - AWSLambdaHackathon2025](https://youtu.be/1c4nMngYk-U)
+
+---
+
+## Related Repositories
+
+This project is part of a complete serverless RSVP management system.  
+See also:
+
+- [Lambda API Request (Main Handler)](https://github.com/your-username/lambda-api-request) – Accepts and processes RSVP submissions
+- [Lambda SQS Consumer (Email Notifier)](https://github.com/your-username/lambda-sqs-consumer) – Consumes messages from SQS and sends confirmation emails via SES
+
+Both repositories work together as part of the same architecture and are required for end-to-end functionality.
 
 ---
 
